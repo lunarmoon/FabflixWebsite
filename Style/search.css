@@ -1,0 +1,14 @@
+form { padding: 20px; width: 400px; display: block; background: #FAFAFA; margin: 0 auto;}
+
+span {color: red;}
+
+body {
+	background-image: url("http://us.123rf.com/450wm/stokkete/stokkete1410/stokkete141000448/32580414-expert-explorer-in-the-jungle-looking-away-through-binoculars.jpg?ver=6");
+    background-color: #cccccc;
+}
+	
+.topcorner{
+   position:absolute;
+   top:0;
+   right:0;
+  }

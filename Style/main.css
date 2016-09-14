@@ -1,0 +1,24 @@
+div {
+	color:white;
+}
+
+
+.options{
+   position: absolute;
+    height: 180px;
+    width: 400px;
+    margin: -100px 0 0 -200px;
+    top: 55%;
+    left: 50%;
+    color:white;
+}
+body {
+    background-image: url("http://us.123rf.com/450wm/alinoubigh/alinoubigh0903/alinoubigh090300112/4503079-isolated-open-digital-movie-clapboard.jpg");
+    background-color: #cccccc;
+}
+
+.topcorner{
+   position:absolute;
+   top:0;
+   right:0;
+  }

@@ -1,0 +1,20 @@
+.options{
+   position: absolute;
+    height: 180px;
+    width: 400px;
+    margin: -100px 0 0 -200px;
+    top: 30%;
+    left: 50%;
+    color:white;
+}
+
+body {
+    background-image: url("http://www.traversecityfilmfest.org/statetheatre/historyphotos/interior.jpg");
+    background-color: #cccccc;
+}
+
+.topcorner{
+   position:absolute;
+   top:0;
+   right:0;
+  }
